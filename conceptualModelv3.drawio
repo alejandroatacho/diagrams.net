@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-14T20:14:22.919Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" etag="DWQjLrvi0ebr8bBMmQHS" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-14T20:37:52.119Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" etag="UfHbBgVGXlkHRSPxlARz" version="22.1.18" type="github">
   <diagram name="Page-1" id="1nGuXMW26l1K1cqTTkwk">
     <mxGraphModel dx="1434" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="jXaG_EuulDBZ0MYkyjh--2" value="Consumer Behavior" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jXaG_EuulDBZ0MYkyjh--3" value="Purchasing Behavior" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jXaG_EuulDBZ0MYkyjh--3" value="Conversion Behavior" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jXaG_EuulDBZ0MYkyjh--12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jXaG_EuulDBZ0MYkyjh--5" target="jXaG_EuulDBZ0MYkyjh--2">
