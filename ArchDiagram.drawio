@@ -16,7 +16,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FwX_ngY_f6qnITPpui5Y-19" value="Run.sh" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-570" y="470" width="80" height="40" as="geometry" />
+          <mxGeometry x="-580" y="470" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FwX_ngY_f6qnITPpui5Y-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FwX_ngY_f6qnITPpui5Y-20" target="FwX_ngY_f6qnITPpui5Y-19">
           <mxGeometry relative="1" as="geometry" />
@@ -297,6 +297,48 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FwX_ngY_f6qnITPpui5Y-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FwX_ngY_f6qnITPpui5Y-150" target="FwX_ngY_f6qnITPpui5Y-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FwX_ngY_f6qnITPpui5Y-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.16;exitY=0.55;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FwX_ngY_f6qnITPpui5Y-156" target="FwX_ngY_f6qnITPpui5Y-150">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FwX_ngY_f6qnITPpui5Y-156" value="&lt;b&gt;dockfile/docker-compose.yml&lt;/b&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="330" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FwX_ngY_f6qnITPpui5Y-158" value="&lt;b&gt;Gunicorn&lt;/b&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="160" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FwX_ngY_f6qnITPpui5Y-159" value="&lt;b&gt;NGINX&lt;/b&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="160" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FwX_ngY_f6qnITPpui5Y-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.88;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FwX_ngY_f6qnITPpui5Y-162" target="FwX_ngY_f6qnITPpui5Y-156">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-196" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-196" y="250" />
+              <mxPoint x="-215" y="250" />
+              <mxPoint x="-215" y="355" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FwX_ngY_f6qnITPpui5Y-178" value="&lt;b&gt;If File Found&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FwX_ngY_f6qnITPpui5Y-172">
+          <mxGeometry x="0.4973" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FwX_ngY_f6qnITPpui5Y-162" value="&lt;b&gt;Docker&lt;/b&gt;&lt;div&gt;&lt;b&gt;override.yml&lt;/b&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="30" width="108" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FwX_ngY_f6qnITPpui5Y-168" value="&lt;b&gt;NGROK&lt;/b&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-412" y="35" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FwX_ngY_f6qnITPpui5Y-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.096;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FwX_ngY_f6qnITPpui5Y-168" target="FwX_ngY_f6qnITPpui5Y-162">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FwX_ngY_f6qnITPpui5Y-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FwX_ngY_f6qnITPpui5Y-159" target="FwX_ngY_f6qnITPpui5Y-156">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FwX_ngY_f6qnITPpui5Y-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FwX_ngY_f6qnITPpui5Y-158" target="FwX_ngY_f6qnITPpui5Y-156">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
