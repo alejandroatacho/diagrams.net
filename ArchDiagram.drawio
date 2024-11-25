@@ -21,7 +21,7 @@
         <mxCell id="FwX_ngY_f6qnITPpui5Y-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FwX_ngY_f6qnITPpui5Y-20" target="FwX_ngY_f6qnITPpui5Y-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FwX_ngY_f6qnITPpui5Y-20" value="&lt;div&gt;Github&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FwX_ngY_f6qnITPpui5Y-20" value="&lt;div&gt;&lt;b&gt;Github&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-530" y="310" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FwX_ngY_f6qnITPpui5Y-29" value="&lt;div&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;" vertex="1" parent="1">
