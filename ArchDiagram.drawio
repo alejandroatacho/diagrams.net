@@ -1,12 +1,9 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0" version="24.9.0">
   <diagram name="Page-1" id="5XQCCtlT2cZZVClSk08m">
-    <mxGraphModel dx="995" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="704" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FwX_ngY_f6qnITPpui5Y-17" value="&lt;div&gt;Database&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="481" y="40" width="80" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="FwX_ngY_f6qnITPpui5Y-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FwX_ngY_f6qnITPpui5Y-18" target="FwX_ngY_f6qnITPpui5Y-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -66,7 +63,10 @@
         <mxCell id="FwX_ngY_f6qnITPpui5Y-6" value="Test&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FwX_ngY_f6qnITPpui5Y-38">
           <mxGeometry x="159" y="213" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FwX_ngY_f6qnITPpui5Y-7" value="Test&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FwX_ngY_f6qnITPpui5Y-38">
+        <mxCell id="FwX_ngY_f6qnITPpui5Y-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FwX_ngY_f6qnITPpui5Y-38" source="FwX_ngY_f6qnITPpui5Y-7" target="FwX_ngY_f6qnITPpui5Y-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FwX_ngY_f6qnITPpui5Y-7" value="&lt;div&gt;settings.py&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FwX_ngY_f6qnITPpui5Y-38">
           <mxGeometry x="159" y="293" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FwX_ngY_f6qnITPpui5Y-8" value="&lt;div&gt;&lt;b&gt;Backend&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FwX_ngY_f6qnITPpui5Y-38">
@@ -143,6 +143,9 @@
           <mxGeometry x="144" width="85" height="46" as="geometry">
             <mxRectangle width="85" height="46" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="FwX_ngY_f6qnITPpui5Y-17" value="&lt;div&gt;Database&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FwX_ngY_f6qnITPpui5Y-38">
+          <mxGeometry x="329" y="293" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FwX_ngY_f6qnITPpui5Y-43" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.942;exitY=0.52;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FwX_ngY_f6qnITPpui5Y-29" target="FwX_ngY_f6qnITPpui5Y-38">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
