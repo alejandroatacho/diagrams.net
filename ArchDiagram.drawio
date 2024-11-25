@@ -306,7 +306,7 @@
             <mxPoint x="239" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FwX_ngY_f6qnITPpui5Y-190" value="&lt;b&gt;Input/Output&lt;br&gt;JSON/XML&lt;/b&gt;&lt;div&gt;&lt;b&gt;/DICT&lt;/b&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="FwX_ngY_f6qnITPpui5Y-38">
+        <mxCell id="FwX_ngY_f6qnITPpui5Y-190" value="&lt;b&gt;I/O:&lt;br&gt;JSON/XML&lt;/b&gt;&lt;div&gt;&lt;b&gt;/DICT&lt;/b&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="FwX_ngY_f6qnITPpui5Y-38">
           <mxGeometry x="409" y="276.5" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FwX_ngY_f6qnITPpui5Y-192" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.891;entryY=0.911;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.74;exitY=0.154;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="FwX_ngY_f6qnITPpui5Y-38" source="FwX_ngY_f6qnITPpui5Y-190" target="FwX_ngY_f6qnITPpui5Y-73">
@@ -384,10 +384,11 @@
         <mxCell id="FwX_ngY_f6qnITPpui5Y-159" value="&lt;b&gt;NGINX&lt;/b&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-440" y="160" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="FwX_ngY_f6qnITPpui5Y-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.88;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FwX_ngY_f6qnITPpui5Y-162" target="FwX_ngY_f6qnITPpui5Y-156">
+        <mxCell id="FwX_ngY_f6qnITPpui5Y-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.88;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FwX_ngY_f6qnITPpui5Y-162" target="FwX_ngY_f6qnITPpui5Y-156">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-196" y="330" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="-196" y="116" />
               <mxPoint x="-196" y="250" />
               <mxPoint x="-215" y="250" />
               <mxPoint x="-215" y="355" />
