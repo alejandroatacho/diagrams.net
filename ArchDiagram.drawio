@@ -52,7 +52,7 @@
         <mxCell id="FwX_ngY_f6qnITPpui5Y-34" value="3. Install Libraries (&lt;b&gt;requirements.txt&lt;/b&gt;)&lt;br&gt;4. NGINX&lt;div&gt;5.Gunicorn&lt;/div&gt;&lt;div&gt;6. NGROK (cancels out NGINX/Gunicorn if used)&lt;/div&gt;&lt;div&gt;7.&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;database migrate for changes in backend before completing.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;8. collect static for container from backend&lt;/div&gt;&lt;div&gt;9. Checks for issues mistakes and lets you know before going up.&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;10. Create Mini Custom Summary at the end.&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="FwX_ngY_f6qnITPpui5Y-31">
           <mxGeometry y="90" width="194" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="FwX_ngY_f6qnITPpui5Y-38" value="Docker Container (WebApp)" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FwX_ngY_f6qnITPpui5Y-38" value="Docker Container (HPP)" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-159" y="180" width="559" height="633" as="geometry" />
         </mxCell>
         <mxCell id="FwX_ngY_f6qnITPpui5Y-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FwX_ngY_f6qnITPpui5Y-38" source="FwX_ngY_f6qnITPpui5Y-2" target="FwX_ngY_f6qnITPpui5Y-4">
