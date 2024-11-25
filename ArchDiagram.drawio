@@ -429,6 +429,15 @@
             <mxPoint x="-100" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="FwX_ngY_f6qnITPpui5Y-196" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.16;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FwX_ngY_f6qnITPpui5Y-197" target="FwX_ngY_f6qnITPpui5Y-146">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-589" y="605" as="sourcePoint" />
+            <mxPoint x="-530" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FwX_ngY_f6qnITPpui5Y-197" value="&lt;b&gt;Fish&lt;/b&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="580" width="70" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
