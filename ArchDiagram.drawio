@@ -4,56 +4,53 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FwX_ngY_f6qnITPpui5Y-1" value="Docker" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="320" width="80" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="FwX_ngY_f6qnITPpui5Y-2" value="Test&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="320" width="80" height="40" as="geometry" />
+          <mxGeometry x="361" y="319" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FwX_ngY_f6qnITPpui5Y-3" value="Test&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="400" width="80" height="40" as="geometry" />
+          <mxGeometry x="361" y="399" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FwX_ngY_f6qnITPpui5Y-4" value="&lt;div&gt;&lt;b&gt;Frontend&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="160" width="80" height="40" as="geometry" />
+          <mxGeometry x="361" y="159" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FwX_ngY_f6qnITPpui5Y-5" value="Test&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="240" width="80" height="40" as="geometry" />
+          <mxGeometry x="361" y="239" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FwX_ngY_f6qnITPpui5Y-6" value="Test&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="320" width="80" height="40" as="geometry" />
+          <mxGeometry x="481" y="319" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FwX_ngY_f6qnITPpui5Y-7" value="Test&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="400" width="80" height="40" as="geometry" />
+          <mxGeometry x="481" y="399" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FwX_ngY_f6qnITPpui5Y-8" value="&lt;div&gt;&lt;b&gt;Backend&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="160" width="80" height="40" as="geometry" />
+          <mxGeometry x="481" y="159" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FwX_ngY_f6qnITPpui5Y-9" value="Test&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="240" width="80" height="40" as="geometry" />
+          <mxGeometry x="481" y="239" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FwX_ngY_f6qnITPpui5Y-10" value="Test&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="320" width="80" height="40" as="geometry" />
+          <mxGeometry x="601" y="319" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FwX_ngY_f6qnITPpui5Y-11" value="Test&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="400" width="80" height="40" as="geometry" />
+          <mxGeometry x="601" y="399" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FwX_ngY_f6qnITPpui5Y-12" value="&lt;div&gt;&lt;b&gt;API&#39;s Payment Gateway&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="160" width="80" height="40" as="geometry" />
+          <mxGeometry x="601" y="159" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FwX_ngY_f6qnITPpui5Y-13" value="Test&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="240" width="80" height="40" as="geometry" />
+          <mxGeometry x="601" y="239" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FwX_ngY_f6qnITPpui5Y-14" value="Test&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="480" width="80" height="40" as="geometry" />
+          <mxGeometry x="361" y="479" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FwX_ngY_f6qnITPpui5Y-15" value="Test&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="480" width="80" height="40" as="geometry" />
+          <mxGeometry x="481" y="479" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FwX_ngY_f6qnITPpui5Y-16" value="Test&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="480" width="80" height="40" as="geometry" />
+          <mxGeometry x="601" y="479" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FwX_ngY_f6qnITPpui5Y-17" value="&lt;div&gt;Database&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="320" width="80" height="40" as="geometry" />
+          <mxGeometry x="721" y="319" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FwX_ngY_f6qnITPpui5Y-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FwX_ngY_f6qnITPpui5Y-18" target="FwX_ngY_f6qnITPpui5Y-19">
           <mxGeometry relative="1" as="geometry" />
@@ -61,8 +58,10 @@
         <mxCell id="FwX_ngY_f6qnITPpui5Y-18" value="&lt;div&gt;.env&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="160" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FwX_ngY_f6qnITPpui5Y-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FwX_ngY_f6qnITPpui5Y-19" target="FwX_ngY_f6qnITPpui5Y-1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="FwX_ngY_f6qnITPpui5Y-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FwX_ngY_f6qnITPpui5Y-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="340" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="FwX_ngY_f6qnITPpui5Y-19" value="Shell" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="320" width="80" height="40" as="geometry" />
@@ -72,6 +71,36 @@
         </mxCell>
         <mxCell id="FwX_ngY_f6qnITPpui5Y-20" value="&lt;div&gt;Github&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FwX_ngY_f6qnITPpui5Y-29" value="&lt;div&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;" vertex="1" parent="1">
+          <mxGeometry x="200" y="300" width="72" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FwX_ngY_f6qnITPpui5Y-30" value="Docker" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="206" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FwX_ngY_f6qnITPpui5Y-31" value="&lt;b&gt;Rushed Summary&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="164" y="450" width="144" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="FwX_ngY_f6qnITPpui5Y-32" value="1. Setup Frontend framework (Typescript React Frontend)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="FwX_ngY_f6qnITPpui5Y-31">
+          <mxGeometry y="30" width="144" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FwX_ngY_f6qnITPpui5Y-33" value="2. Setup Django Python Framework" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="FwX_ngY_f6qnITPpui5Y-31">
+          <mxGeometry y="60" width="144" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FwX_ngY_f6qnITPpui5Y-34" value="3. Install Libraries&lt;br&gt;4. NGINX" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="FwX_ngY_f6qnITPpui5Y-31">
+          <mxGeometry y="90" width="144" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FwX_ngY_f6qnITPpui5Y-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FwX_ngY_f6qnITPpui5Y-31" target="FwX_ngY_f6qnITPpui5Y-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FwX_ngY_f6qnITPpui5Y-38" value="Docker Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="321" y="107" width="485" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="FwX_ngY_f6qnITPpui5Y-43" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.942;exitY=0.52;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FwX_ngY_f6qnITPpui5Y-29" target="FwX_ngY_f6qnITPpui5Y-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="350" as="sourcePoint" />
+            <mxPoint x="330" y="340" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
