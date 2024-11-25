@@ -297,6 +297,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="FwX_ngY_f6qnITPpui5Y-188" value="&lt;b&gt;Django/Python&lt;/b&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="FwX_ngY_f6qnITPpui5Y-38">
+          <mxGeometry x="200" y="91.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FwX_ngY_f6qnITPpui5Y-189" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.31;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="FwX_ngY_f6qnITPpui5Y-38" source="FwX_ngY_f6qnITPpui5Y-8" target="FwX_ngY_f6qnITPpui5Y-188">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="189" y="200" as="sourcePoint" />
+            <mxPoint x="239" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="FwX_ngY_f6qnITPpui5Y-43" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.942;exitY=0.52;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FwX_ngY_f6qnITPpui5Y-29" target="FwX_ngY_f6qnITPpui5Y-38">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-210" y="430" as="sourcePoint" />
