@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-28T23:14:21.393Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 OPR/111.0.0.0" etag="-GG74V9HIMdOzvvo3Mgj" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" version="25.0.3" pages="2">
   <diagram name="Page-1" id="_pIc1GbhXy4IMLbLXFMW">
     <mxGraphModel dx="1434" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -37,6 +37,41 @@
             <Array as="points">
               <mxPoint x="170" y="420" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="WgS0gRemDebNlTFsZZMd" name="Page-2">
+    <mxGraphModel dx="1393" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QMFAig2fV62U0ICUX-Pk-2" value="Perception" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QMFAig2fV62U0ICUX-Pk-4" value="eWom" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="440" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QMFAig2fV62U0ICUX-Pk-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QMFAig2fV62U0ICUX-Pk-6" target="QMFAig2fV62U0ICUX-Pk-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QMFAig2fV62U0ICUX-Pk-6" value="Strategies" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="360" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QMFAig2fV62U0ICUX-Pk-8" value="Engagement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="360" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QMFAig2fV62U0ICUX-Pk-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QMFAig2fV62U0ICUX-Pk-2" target="QMFAig2fV62U0ICUX-Pk-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="420" as="sourcePoint" />
+            <mxPoint x="570" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QMFAig2fV62U0ICUX-Pk-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QMFAig2fV62U0ICUX-Pk-4" target="QMFAig2fV62U0ICUX-Pk-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="320" as="sourcePoint" />
+            <mxPoint x="480" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
